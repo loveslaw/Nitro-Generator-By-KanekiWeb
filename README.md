@@ -1,12 +1,18 @@
-# Nitro-Generator-By-KanekiWeb
+# ⚡ Nitro Generator By KanekiWeb
 
-Open-source project and utility tools.
+A standalone Windows desktop application developed by KanekiWeb for multi-threaded Discord Nitro code generation, format validation, and automated export.
 
-## 🚀 Overview
-Extracted source files, configs, and documentation for `Nitro-Generator-By-KanekiWeb`.
+## ✨ Features
+- **Zero Installation Required**: Portable Windows executable (`Nitro Generator By KanekiWeb.exe`).
+- **High-Throughput Generation**: Multi-threaded generation engine capable of generating thousands of code combinations per minute.
+- **Proxy Support**: Supports HTTP/HTTPS/SOCKS5 proxies to prevent IP rate-limiting.
+- **Automated Hit Export**: Validated hits are automatically saved to output text logs.
 
-## 📦 Contents
-All project files extracted directly at repository root.
+## 🖥️ Usage
+1. Download or clone this repository.
+2. Run `Nitro Generator By KanekiWeb.exe` on Windows 10/11.
+3. Configure thread count and proxy lists if live-checking.
+4. Generated strings are formatted as `discord.gift/<code_string>`.
 
----
-*Maintained by [loveslaw](https://github.com/loveslaw)*
+## ⚠️ Legal Notice
+For educational and penetration testing research purposes only.
